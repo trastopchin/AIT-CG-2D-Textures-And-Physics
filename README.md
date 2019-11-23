@@ -3,12 +3,12 @@
 Create a small 2D game implementing basic textures and phyics features. Created as the final part of the 2D project for my Computer Graphics course at the Aquincum Instute of Technology the fall of 2019 with professor László Szécsi.
 
 <p align="center">
-  <img src="/resources/screenshot01.png" alt="A screenshot of the running project demonstrating each of the completed features." width="400">
+  <img src="/resources/screenshot_01.png" alt="A screenshot of the running project demonstrating each of the completed features." width="400">
 
-  <img src="/resources/screenshot01.png" alt="A screenshot of the running project demonstrating each of the completed features." width="400">
+  <img src="/resources/screenshot_02.png" alt="A screenshot of the running project demonstrating each of the completed features." width="400">
 </p>
 
-One should be able to download the [2D_textures_and_physics]() folder and open up the [index.html]() file in a web browser to see the project. In the case of google chrome, one might have to open the browser with `open /Applications/Google\ Chrome.app --args --allow-file-access-from-files` in order to load images and textures properly. This project was built upon László Szécsi's starter code and class powerpoint slides.
+One should be able to download the [2D_textures_and_physics](https://github.com/trastopchin/AIT-CG-2D-Textures-And-Physics/tree/master/2D_textures_and_physics) folder and open up the [index.html](https://github.com/trastopchin/AIT-CG-2D-Textures-And-Physics/blob/master/2D_textures_and_physics/graphics/index.html) file in a web browser to see the project. In the case of google chrome, one might have to open the browser with `open /Applications/Google\ Chrome.app --args --allow-file-access-from-files` in order to load images and textures properly. This project was built upon László Szécsi's starter code and class powerpoint slides.
 
 ## Completed Features:
 
